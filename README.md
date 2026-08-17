@@ -121,7 +121,7 @@ AI Support Radar
 |---|---|---|
 | **1. Lab Coach có thực sự phát hiện learner gặp khó khăn muộn không?** | Một sự kiện gần đây có trình tự rõ: learner gặp khó → Lab Coach chưa biết → xuất hiện tín hiệu muộn → Lab Coach mới phát hiện | Lab Coach thường nhận biết learner gặp khó đủ sớm và không có case đáng kể bị bỏ sót |
 | **2. Việc phát hiện muộn có tạo hậu quả đủ lớn để đáng giải quyết không?** | Learner bị kẹt lâu, miss deadline, giảm kết quả, mất động lực hoặc cần nhiều hỗ trợ hơn sau đó | Phát hiện muộn chỉ gây bất tiện nhỏ, không ảnh hưởng đáng kể đến learner hoặc Lab Coach |
-| **3. Bottleneck thật sự là thiếu visibility hay thiếu capacity?** ⭐ | Lab Coach kể được case họ không biết learner đang gặp khó cho đến khi có tín hiệu muộn | Lab Coach thực ra biết ai đang gặp khó nhưng không có thời gian hoặc nguồn lực để hỗ trợ — khi đó nhóm cần đổi hướng |
+| **3. Bottleneck thật sự là thiếu visibility hay thiếu capacity?** | Lab Coach kể được case họ không biết learner đang gặp khó cho đến khi có tín hiệu muộn | Lab Coach thực ra biết ai đang gặp khó nhưng không có thời gian hoặc nguồn lực để hỗ trợ — khi đó nhóm cần đổi hướng |
 
 > **Câu hỏi “đáng sợ” của nhóm là Big 3 số 3**, vì nếu bottleneck là capacity chứ không phải visibility thì Problem Hypothesis A sẽ yếu đi đáng kể.
 
@@ -161,7 +161,7 @@ AI Support Radar
 |---|---|
 | Lab Coach có phát hiện learner muộn không? | **Lần gần nhất bạn nhận ra một learner đang gặp khó khăn là khi nào? Bạn nhận ra bằng cách nào?** |
 | Pain có đủ ý nghĩa không? | **Từ lúc learner bắt đầu gặp khó đến lúc bạn nhận ra, chuyện gì đã xảy ra và việc đó kéo theo hậu quả gì?** |
-| Visibility hay Capacity? ⭐ | **Trong tình huống đó, điều khó hơn với bạn là không biết learner đang cần hỗ trợ, hay là đã biết nhưng chưa có thời gian/nguồn lực để hỗ trợ? Bạn có thể kể cụ thể không?** |
+| Visibility hay Capacity? | **Trong tình huống đó, điều khó hơn với bạn là không biết learner đang cần hỗ trợ, hay là đã biết nhưng chưa có thời gian/nguồn lực để hỗ trợ? Bạn có thể kể cụ thể không?** |
 
 ### 3.7. Big 3 Questions — Learner
 
@@ -208,9 +208,9 @@ Chỉ dùng khi cần đào sâu câu chuyện:
 
 | Thành viên | Đối tượng | Vai trò |
 |---|---|---|
-| [Thành viên 1] | Lab Coach | Interviewer chính |
-| [Thành viên 2] | Learner 1 | Interviewer + ghi chú |
-| [Thành viên 3] | Learner 2 | Interviewer + ghi chú |
+| Nguyễn Thị Tuyết Mai | Lab Coach | Interviewer chính |
+| Nguyễn Thị Tuyết Mai | Learner 1 | Interviewer |
+| Lê Thị Linh | Learner 2 | Interviewer + ghi chú |
 
 ---
 
@@ -294,10 +294,8 @@ Nhóm đã:
 ├── README.md
 └── interview/
     ├── notes.md
-    └── recording.m4a
+    └── recording_link.md
 ```
 
 - `interview/notes.md`: ghi chú phỏng vấn thực tế, gồm sự kiện, hành vi, workaround, consequence và evidence đáng chú ý.
 - `interview/recording_link.md`: bản ghi âm buổi phỏng vấn khi đã được người tham gia đồng ý.
-
-> **Lưu ý:** README này chỉ chứa hypothesis, guide và reflection của nhóm. Evidence dùng để xác thực hoặc bác bỏ Problem Hypothesis phải đến từ phỏng vấn thực tế và được ghi lại trong `interview/notes.md`.
