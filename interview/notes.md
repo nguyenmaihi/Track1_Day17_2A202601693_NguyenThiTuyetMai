@@ -30,7 +30,8 @@ Lab Coach khó nhận biết người đang cần hỗ trợ nếu họ không g
 Cách quan sát thủ công chưa chính xác và tốn thời gian.
 Vấn đề không chỉ là phát hiện mà còn là thiếu thời gian và khó ưu tiên.
 Learner cần một cách yêu cầu hỗ trợ riêng tư, nhanh và có sẵn bối cảnh vấn đề.
-Kết luận
+
+# Kết luận
 
 Các cuộc phỏng vấn bước đầu ủng hộ giả thuyết:
 
